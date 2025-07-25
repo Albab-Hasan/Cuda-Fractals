@@ -21,7 +21,7 @@ Running this bad boy will generate 7 beautiful fractal images:
 4. **Julia Set #2** - More Julia goodness with different parameters
 5. **Julia Set #3** - Because three's a charm
 6. **Burning Ship** - A twisted version that looks like... well, burning ships
-7. **Deep Zoom Mandelbrot** - Going *really* deep into the rabbit hole
+7. **Deep Zoom Mandelbrot** - Going *really* deep into the rabbit hole          [Currently dosen't work]
 
 ## Getting Started
 
